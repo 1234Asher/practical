@@ -5,4 +5,11 @@ basic.showLeds(`
     . # # # .
     . . # . .
     `)
-basic.pause(5000)
+basic.pause(100)
+basic.showLeds(`
+    . . . . .
+    . # # # .
+    . # # # .
+    # . . . #
+    . . . . .
+    `)
